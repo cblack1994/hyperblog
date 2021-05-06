@@ -52,6 +52,12 @@ body
     padding: 1em;
 }
 
+#gato
+{
+    width: 100%;
+}
+
+
 #footer
 {
     background: #777;
